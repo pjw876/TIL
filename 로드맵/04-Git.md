@@ -12,7 +12,7 @@ perday: 1
 
 ---
 
-- [ ] **Day 1 · 세 영역과 기본 명령** — Working Directory / Staging / Repository, `init`, `add`, `commit`, `log --oneline --graph`, `diff`, `status`
+- [x] **Day 1 · 세 영역과 기본 명령** — Working Directory / Staging / Repository, `init`, `add`, `commit`, `log --oneline --graph`, `diff`, `status`
   확인: `git add`는 정확히 무엇을 하는가?
 - [ ] **Day 2 · 브랜치와 병합** — `switch -c`, `merge`, fast-forward vs 3-way merge
   확인: 브랜치는 "복사본"인가? (아니고 커밋을 가리키는 포인터)
