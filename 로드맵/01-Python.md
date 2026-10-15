@@ -13,7 +13,7 @@ perday: 1
 
 ## Day별 계획
 
-- [ ] **Day 1** — 언어 핵심 ①
+- [x] **Day 1** — 언어 핵심 ①
   - 자료형과 mutable/immutable: `id()`로 객체 동일성 확인, list/tuple/dict/set 연산 시간복잡도 표 만들기
     확인: 함수 기본 인자에 `[]`를 쓰면 왜 위험한가?
   - 제어흐름과 컴프리헨션: list/dict/set 컴프리헨션, 제너레이터 표현식 비교
