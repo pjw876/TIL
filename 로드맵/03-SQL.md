@@ -14,7 +14,7 @@ perday: 1
 
 ## Day별 계획
 
-- [ ] **Day 1** — SELECT 기본 + 집계
+- [x] **Day 1** — SELECT 기본 + 집계
   - **SELECT 기본**: `WHERE`, `ORDER BY`, `LIMIT`, `DISTINCT`, `LIKE`, `IN`, `BETWEEN`
     확인: 실행 순서(FROM → WHERE → GROUP BY → HAVING → SELECT → ORDER BY)를 말할 수 있나?
   - **집계**: `COUNT/SUM/AVG/MIN/MAX`, `GROUP BY`, `HAVING`
